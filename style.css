@@ -63,7 +63,7 @@ img{
 	transition: all 0.3s ease-out 0.2s;
 }
 
-.description button{
+.description a{
 	color: #fff;
 	background: #34aff3;
 	display: inline-block;
@@ -75,7 +75,7 @@ img{
 	transition: all 0.3s ease-out 0.4s;
 }
 
-.description button:hover{
+.description a:hover{
 	background: #0e6290;
 }
 
