@@ -154,6 +154,7 @@ img {
     padding: 1rem 2.25rem;
     backdrop-filter: blur(10px);
 	transition: .4s;
+	margin-bottom: auto 0;
 }
 .nav__list {
     display: flex;
